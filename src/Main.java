@@ -18,14 +18,14 @@ public class Main {
         System.out.println("Задание 2");
         double oneOne = 27.12;
         long twoTwo = 987678965549L;
-        float fhreeFhree = 2.786f;
+        float threeThree = 2.786f;
         int fourFour = 569;
         short fiveFive =159;
         long sixSix = 27897;
         byte sevenSeven = 67;
         System.out.println(oneOne);
         System.out.println(twoTwo);
-        System.out.println(fhreeFhree);
+        System.out.println(threeThree);
         System.out.println(fourFour);
         System.out.println(fiveFive);
         System.out.println(sixSix);
@@ -41,7 +41,8 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + list + " листов бумаги.");
 
         System.out.println("Задание 4");
-        int bottlesMinute = 16;
+        int bottlesTwoMinute = 16;
+        int bottlesMinute = bottlesTwoMinute / 2; // в минуту
         int time1 = 20;        // минут
         int time2 = 1440;     // минут в сутки
         int time3 = 4320;    // минуты за 3 дня
