@@ -113,7 +113,7 @@ public class Main {
         System.out.println("Кристина теперь получает " + kristinaNew + " рублей. Годовой доход вырос на " + kristinaAverage + " рублей.");
 
 
-
+        System.out.println("Доработка");
 
 
     }
